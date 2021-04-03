@@ -6,6 +6,12 @@ body {
     background-color: #eee;
 }
 
+.clear {
+    clear: both;
+    line-height: 0;
+    height: 0;
+}
+
 /* Page Layout */
 
 #conmenubar {
@@ -39,17 +45,25 @@ body {
 #conleftbar {
     background-color: thistle;
     width: 300px;
-    height: 500px;
+    height: 450px;
     float: left;
-    margin-left: 113px;
+    margin-left: 300px;
 }
 
-/* left bar */
+/* end left bar*/
 
-#conadsbar {
+#ads {
     background-color: violet;
-    width: 600px;
-    height: 500px;
+    width: 1350px;
+    height: 450px;
 }
 
-/* ads bar */
+#ads-con {
+    background-color: white;
+    height: 400px;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+/* end ads */
