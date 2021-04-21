@@ -68,21 +68,3 @@ body {
 }
 
 /* end ads */
-
-.left-sec-bar {
-    margin-top: 30px;
-}
-
-#conleftsecbar {
-    background-color: wheat;
-    width: 300px;
-    height: 1000px;
-    float: left;
-    margin-left: 300px;
-}
-
-#leftsecrow>h1 {
-    font-size: 30px;
-}
-
-/* end left-sec-bar */
